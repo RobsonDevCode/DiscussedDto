@@ -1,0 +1,11 @@
+C:\Repos\PFMSApi\PFMSDdto\bin\Debug\net8.0\PFMSDdto.deps.json
+C:\Repos\PFMSApi\PFMSDdto\bin\Debug\net8.0\PFMSDdto.dll
+C:\Repos\PFMSApi\PFMSDdto\bin\Debug\net8.0\PFMSDdto.pdb
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\PFMSDdto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\PFMSDdto.AssemblyInfoInputs.cache
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\PFMSDdto.AssemblyInfo.cs
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\PFMSDdto.csproj.CoreCompileInputs.cache
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\PFMSDdto.dll
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\refint\PFMSDdto.dll
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\PFMSDdto.pdb
+C:\Repos\PFMSApi\PFMSDdto\obj\Debug\net8.0\ref\PFMSDdto.dll

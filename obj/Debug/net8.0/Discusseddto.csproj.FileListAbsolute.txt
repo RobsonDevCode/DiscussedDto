@@ -1,0 +1,11 @@
+C:\Repos\DiscussedApi\DisscusedDdto\bin\Debug\net8.0\Discusseddto.deps.json
+C:\Repos\DiscussedApi\DisscusedDdto\bin\Debug\net8.0\Discusseddto.dll
+C:\Repos\DiscussedApi\DisscusedDdto\bin\Debug\net8.0\Discusseddto.pdb
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\Discusseddto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\Discusseddto.AssemblyInfoInputs.cache
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\Discusseddto.AssemblyInfo.cs
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\Discusseddto.csproj.CoreCompileInputs.cache
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\Discusseddto.dll
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\refint\Discusseddto.dll
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\Discusseddto.pdb
+C:\Repos\DiscussedApi\DisscusedDdto\obj\Debug\net8.0\ref\Discusseddto.dll
